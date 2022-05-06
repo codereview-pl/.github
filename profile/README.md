@@ -1,5 +1,3 @@
-![logo.codereview.pl](https://logo.codereview.pl/1/cover.png)
-
 Code Review na poważnie, metody, przykłady, skutki niskiej jakości kodu
 
 # [codereview.pl](https://www.codereview.pl/) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/codereview-pl/www/edit/main/MENU.md) 
